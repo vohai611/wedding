@@ -1,4 +1,4 @@
-baseurl: http://example.org/
+baseurl: https://hp-wedding.netlify.app/
 languageCode: en-us
 title: Wedding
 theme: autophugo
@@ -6,8 +6,8 @@ disableKinds:
   - taxonomy
   - term
 Author:
-  email: kc0bfv@gmail.com
-  name: Karl Sickendick
+  email: haingocvo96@gmail.com
+  name: Hai Vo
 params:
   thumb_quality: 100
   thumb_width: 2048
@@ -32,11 +32,8 @@ params:
       name: Your name
     paragraph:
       headline: Magna feugiat sed adipiscing
-      text: Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque
-        turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at
-        lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla
-        consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque
-        turpis ipsum.
+      text: Welcome to our album!
+        This webiste store picture about of life, love, journey and wedding.
     social:
       headline: Follow me
       links:
