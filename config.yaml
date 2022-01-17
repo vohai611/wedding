@@ -1,6 +1,6 @@
 baseurl: http://example.org/
 languageCode: en-us
-title: AutoPhugo
+title: Wedding
 theme: autophugo
 disableKinds:
   - taxonomy
@@ -11,7 +11,7 @@ Author:
 params:
   thumb_quality: 100
   thumb_width: 2048
-  description: AutoPhugo - Photo Gallery on Hugo
+  description: WeddingPreview - Photo Gallery on Hugo
   footer:
     contact:
       buttonText: Send
