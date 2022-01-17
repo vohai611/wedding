@@ -1,0 +1,68 @@
+baseurl: http://example.org/
+languageCode: en-us
+title: AutoPhugo
+theme: autophugo
+disableKinds:
+  - taxonomy
+  - term
+Author:
+  email: kc0bfv@gmail.com
+  name: Karl Sickendick
+params:
+  thumb_quality: 100
+  thumb_width: 2048
+  description: AutoPhugo - Photo Gallery on Hugo
+  footer:
+    contact:
+      buttonText: Send
+      email:
+        text: Email *
+        warning: Please, enter your email.
+      headline: Get in touch
+      hide: no
+      message:
+        text: Message *
+        warning: Please, enter your message
+      name:
+        text: Name *
+        warning: Please, enter your name
+      realEmail: example@example.org
+      resetText: Reset
+    copyright:
+      name: Your name
+    paragraph:
+      headline: Magna feugiat sed adipiscing
+      text: Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque
+        turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at
+        lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla
+        consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque
+        turpis ipsum.
+    social:
+      headline: Follow me
+      links:
+        - icon: fa-twitter
+          label: Twitter
+          url: '#'
+        - icon: fa-facebook
+          label: Facebook
+          url: '#'
+        - icon: fa-instagram
+          label: Instagram
+          url: '#'
+        - icon: fa-github
+          label: Github
+          url: '#'
+        - icon: fa-linkedin
+          label: LinkedIn
+          url: '#'
+  header:
+    links:
+      - icon: fa-info-circle
+        name: About
+        url: '#footer'
+  keywords: phugo, hugo, photogallery, photoblog, hugo theme
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
