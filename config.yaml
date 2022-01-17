@@ -1,4 +1,4 @@
-baseurl: https://hp-wedding.netlify.app/
+baseurl: https://wedding.vohai.xyz/
 languageCode: en-us
 title: Wedding
 theme: autophugo
@@ -11,6 +11,7 @@ Author:
 params:
   thumb_quality: 100
   thumb_width: 2048
+  column_count: 2
   description: WeddingPreview - Photo Gallery on Hugo
   footer:
     contact:
@@ -29,10 +30,10 @@ params:
       realEmail: example@example.org
       resetText: Reset
     copyright:
-      name: Your name
+      name: Hai Vo
     paragraph:
-      headline: Magna feugiat sed adipiscing
-      text: Welcome to our album!
+      headline: Welcome to our album!
+      text: 
         This webiste store picture about of life, love, journey and wedding.
     social:
       headline: Follow me
@@ -55,7 +56,7 @@ params:
   header:
     links:
       - icon: fa-info-circle
-        name: About
+        name: Welcome to my online album
         url: '#footer'
   keywords: phugo, hugo, photogallery, photoblog, hugo theme
 
